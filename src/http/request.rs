@@ -1,3 +1,7 @@
+#![allow(dead_code)]
+#![allow(unused_variables)]
+
+
 use std::str;
 use std::str::Utf8Error;
 use::std::convert::TryFrom;
