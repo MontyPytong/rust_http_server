@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+#![allow(unused_variables)]
 
 use crate::http::Request;
 use std::convert::TryFrom;
